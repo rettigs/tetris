@@ -2,3 +2,6 @@
 name = "tetris"
 version = "0.1.0"
 authors = ["Sean Rettig <seanrettig@gmail.com>"]
+
+[dependencies]
+piston_window = "0.32.0"
